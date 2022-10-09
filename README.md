@@ -3,8 +3,9 @@
 
 <div align="center">
  
-![6d351708c4e1bef78ffa323d81f1129e](https://user-images.githubusercontent.com/93666980/194779731-fdd3781d-31bf-4c6e-885d-9c7fde7d67c0.gif)
- 
+![1ce4a455282c6898c5710c9c52cae893](https://user-images.githubusercontent.com/93666980/194779784-e6984d56-36d4-47f0-ab94-74b32f385850.gif)
+
+
 <div>
 
  <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
