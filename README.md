@@ -5,7 +5,7 @@
 
  <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
  <p align="center">Goals for 2022: Focusing on improving myself persoanlly and as a developer <p>
- <p align="center">Currently working on: A 3 tier application similar to 
+ <p align="center">Currently working on: A 3 tier application similar to Reddit using Blazor(C#) for the UI while the back-end written in Java<p>
  
 
 
