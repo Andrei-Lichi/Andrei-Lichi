@@ -3,7 +3,7 @@
 
 
 
- <ul align="center" list-style-type: none>
+ <ul align="center" style="list-style: none;">
   <li>s</li>
   <li>s</li>
   <li>Ms</li>
