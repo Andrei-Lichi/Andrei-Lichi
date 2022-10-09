@@ -3,12 +3,9 @@
 
 
 
- <ul list-style-type:none>
-  <li>s</li>
-  <li>s</li>
-  <li>s</li>
-</ul>
- 
+ <p align="center">sdsdsd<p>
+ <p align="center">sdsdsd<p>
+ <p align="center">sdsd<p>
 
 
 <h3 align="center">Languages and Tools:</h3>
