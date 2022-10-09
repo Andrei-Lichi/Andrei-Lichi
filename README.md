@@ -2,9 +2,9 @@
 <h2 align="center">I am currently a software engineering student at VIA University</h2>
 
 
-<div align="center">
+<div align="center" text-allign="center">
  <ul>
-  <li text-allign="center">s</li>
+  <li>s</li>
   <li>s</li>
   <li>Ms</li>
 </ul>
