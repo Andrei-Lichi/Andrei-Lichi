@@ -3,7 +3,7 @@
 
 <div align="center">
  
-![6d351708c4e1bef78ffa323d81f1129e](https://user-images.githubusercontent.com/93666980/194779828-2780544c-4590-4282-9b33-ea522737b3d6.gif)
+![1ce4a455282c6898c5710c9c52cae893](https://user-images.githubusercontent.com/93666980/194779891-61ea8b8c-5bd5-4ae9-ae67-1ba23b7e742b.gif)
 
 
 <div>
