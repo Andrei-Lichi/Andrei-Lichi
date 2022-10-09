@@ -2,13 +2,15 @@
 <h2 align="center">I am currently a software engineering student at VIA University</h2>
 
 
-
+<div text-align: center
+    list-style-position: inside" align="center">
  <ul text-align: center
     list-style-position: inside" align="center">
   <li>s</li>
   <li>s</li>
   <li>Ms</li>
 </ul>
+ <div>
 
 
 <h3 align="center">Languages and Tools:</h3>
