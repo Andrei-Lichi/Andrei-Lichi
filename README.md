@@ -3,7 +3,7 @@
 
 
 
- <ul  style="list-style: none;">
+ <ul  style="list-style-type: none;">
   <li>s</li>
   <li>s</li>
   <li>Ms</li>
