@@ -2,10 +2,8 @@
 <h2 align="center">I am currently a software engineering student at VIA University</h2>
 
 
-<div text-align: center
-    list-style-position: inside" align="center">
- <ul text-align: center
-    list-style-position: inside" align="center">
+
+ <ul align="center" list-style-type: none>
   <li>s</li>
   <li>s</li>
   <li>Ms</li>
