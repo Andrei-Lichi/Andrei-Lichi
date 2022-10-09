@@ -2,7 +2,9 @@
 <h2 align="center">I am software engineering student at VIA University</h2>
 
 <div align="center">
+ 
 ![6d351708c4e1bef78ffa323d81f1129e](https://user-images.githubusercontent.com/93666980/194779731-fdd3781d-31bf-4c6e-885d-9c7fde7d67c0.gif)
+ 
 <div>
 
  <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
