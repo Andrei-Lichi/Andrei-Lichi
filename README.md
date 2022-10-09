@@ -4,9 +4,9 @@
 
 <div align="center">
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>s</li>
+  <li>s</li>
+  <li>Ms</li>
 </ul>
 <div>
 
