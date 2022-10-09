@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei-George Lichi</h1>
-<h3 align="left">I am currently a software engineering student at VIA University</h3>
+<h2 align="center">I am currently a software engineering student at VIA University</h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
