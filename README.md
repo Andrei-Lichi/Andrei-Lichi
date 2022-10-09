@@ -3,12 +3,12 @@
 
 
 
- <ul  style="list-style-type: none;">
+ <ul list-style-type:none>
   <li>s</li>
   <li>s</li>
   <li>s</li>
 </ul>
- <div>
+ 
 
 
 <h3 align="center">Languages and Tools:</h3>
