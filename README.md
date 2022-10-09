@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrei-George Lichi</h1>
 <h2 align="center">I am software engineering student at VIA University</h2>
 
-![1ce4a455282c6898c5710c9c52cae893](https://user-images.githubusercontent.com/93666980/194779711-20468fb7-b477-49fd-a2ee-f7e6b62c55e5.gif)
-
+<div align="center">
+![6d351708c4e1bef78ffa323d81f1129e](https://user-images.githubusercontent.com/93666980/194779731-fdd3781d-31bf-4c6e-885d-9c7fde7d67c0.gif)
+<div>
 
  <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
  <p align="center">Goals for 2022: Focusing on improving myself persoanlly and as a developer <p>
