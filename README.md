@@ -4,7 +4,7 @@
 
 <div align="center">
  <ul>
-  <li>s</li>
+  <li text-allign="center">s</li>
   <li>s</li>
   <li>Ms</li>
 </ul>
