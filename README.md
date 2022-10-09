@@ -2,8 +2,8 @@
 <h2 align="center">I am currently a software engineering student at VIA University</h2>
 
 
-<div align="center" text-allign="center">
- <ul>
+<div align="center">
+ <ul text-allign="center">
   <li>s</li>
   <li>s</li>
   <li>Ms</li>
