@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andrei-George Lichi</h1>
-<h2 align="center">I am currently a software engineering student at VIA University</h2>
+<h2 align="center">I am software engineering student at VIA University</h2>
 
 
 
- <p align="center">sdsdsd<p>
- <p align="center">sdsdsd<p>
- <p align="center">sdsd<p>
+ <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
+ <p align="center">Goals for 2022: Focusing on improving myself persoanlly and as a developer <p>
+ <p align="center">Currently working on: A 3 tier application similar to Reddit using Blazor(Front-end) and java(back-end)<p>
+ 
 
 
 <h3 align="center">Languages and Tools:</h3>
