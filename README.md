@@ -3,8 +3,8 @@
 
 
 
- <ul text-align: center;
-    list-style-position: inside;">
+ <ul text-align: center
+    list-style-position: inside" align="center">
   <li>s</li>
   <li>s</li>
   <li>Ms</li>
