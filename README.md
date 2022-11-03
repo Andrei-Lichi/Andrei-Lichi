@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrei-George Lichi</h1>
+<h1 align="center">Hi 👋, This is Lichi Musk</h1>
 <h2 align="center">I am software engineering student at VIA University</h2>
 
 <div align="center">
