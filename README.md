@@ -9,7 +9,7 @@
 <div>
 
  <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
- <p align="center">Goals for 2023: Focusing on improving myself persoanlly and as a developer <p>
+ <p align="center">Goals for 2024: Finishing my bachelor's project<p>
 
 
 
