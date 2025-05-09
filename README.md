@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lichi</h1>
-<h2 align="center">I am a Software Engineer with 2 years of experience in Front-End Development
+<h2 align="center">I am a Software Engineer with 2 years of experience in Front-End Development</h2>
 
 <div align="center">
  
