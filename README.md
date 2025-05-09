@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lichi</h1>
 <h2 align="center">I am a Software Engineer with 2 years of experience in Front-End Development</h2>
 
-<div align="center">
- 
-![1ce4a455282c6898c5710c9c52cae893](https://user-images.githubusercontent.com/93666980/194779891-61ea8b8c-5bd5-4ae9-ae67-1ba23b7e742b.gif)
-
-
-<div>
-
  <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
  <p align="center">Goals for 2025: Further increase my skills and knowledge as a fresh graduate<p>
 
