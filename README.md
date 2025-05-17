@@ -3,8 +3,10 @@
 
  <p align="center">About me: I love drawing / My favorite show is "Attack on Titan"<p>
  <p align="center">Goals for 2025: Further increase my skills and knowledge as a fresh graduate<p>
-
+  
+<div align="center">
 ![adventure-time-cartoon-network](https://github.com/user-attachments/assets/8b596832-9887-4826-b7a2-dffa250a67c7)
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
