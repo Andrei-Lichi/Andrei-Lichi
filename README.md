@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lichi</h1>
 <h2 align="center">I am a Software Engineer with 2 years of experience in Front-End Development</h2>
 
- <p align="center">About me: I love playing ping-pong / My favorite show is "Attack on Titan"<p>
+ <p align="center">About me: I love drawing / My favorite show is "Attack on Titan"<p>
  <p align="center">Goals for 2025: Further increase my skills and knowledge as a fresh graduate<p>
 
 ![adventure-time-cartoon-network](https://github.com/user-attachments/assets/8b596832-9887-4826-b7a2-dffa250a67c7)
